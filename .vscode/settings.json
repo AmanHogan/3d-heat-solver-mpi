@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "time.h": "c",
+        "type_traits": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "mpi.h": "c",
+        "3dsolver.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

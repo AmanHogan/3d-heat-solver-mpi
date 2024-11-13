@@ -1,0 +1,3 @@
+Grid size N = 25, Error = 0.000774, Runtime = 0.033998 seconds
+Grid size N = 50, Error = 0.000193, Runtime = 1.065172 seconds
+Grid size N = 100, Error = 0.000048, Runtime = 45.274510 seconds

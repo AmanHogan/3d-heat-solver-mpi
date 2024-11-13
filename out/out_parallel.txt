@@ -1,0 +1,124 @@
+INFO_START: Using 1 proccesses
+INFO: Process 0: (x, y, z) = (0, 0, 0) | Neighbors - Bottom: -2, Top: -2, Left: -2, Right: -2, Front: -2, Back: -2
+GLOBAL_ERROR: 0.005559
+RUNTIME: 126.951661 seconds
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO_START: Using 8 proccesses
+INFO: Process 6: (x, y, z) = (1, 1, 0) | Neighbors - Bottom: -2, Top: 7, Left: 4, Right: -2, Front: 2, Back: -2
+INFO: Process 0: (x, y, z) = (0, 0, 0) | Neighbors - Bottom: -2, Top: 1, Left: -2, Right: 2, Front: -2, Back: 4
+INFO: Process 4: (x, y, z) = (1, 0, 0) | Neighbors - Bottom: -2, Top: 5, Left: -2, Right: 6, Front: 0, Back: -2
+INFO: Process 2: (x, y, z) = (0, 1, 0) | Neighbors - Bottom: -2, Top: 3, Left: 0, Right: -2, Front: -2, Back: 6
+INFO: Process 5: (x, y, z) = (1, 0, 1) | Neighbors - Bottom: 4, Top: -2, Left: -2, Right: 7, Front: 1, Back: -2
+INFO: Process 7: (x, y, z) = (1, 1, 1) | Neighbors - Bottom: 6, Top: -2, Left: 5, Right: -2, Front: 3, Back: -2
+INFO: Process 1: (x, y, z) = (0, 0, 1) | Neighbors - Bottom: 0, Top: -2, Left: -2, Right: 3, Front: -2, Back: 5
+INFO: Process 3: (x, y, z) = (0, 1, 1) | Neighbors - Bottom: 2, Top: -2, Left: 1, Right: -2, Front: -2, Back: 7
+GLOBAL_ERROR: 0.097848
+RUNTIME: 15.463419 seconds
+[1,0]<stdout>:INFO_START: Using 50 proccesses
+[1,46]<stdout>:INFO_START: Using 50 proccesses
+[1,22]<stdout>:INFO_START: Using 50 proccesses
+[1,48]<stdout>:INFO_START: Using 50 proccesses
+[1,36]<stdout>:INFO_START: Using 50 proccesses
+[1,42]<stdout>:INFO_START: Using 50 proccesses
+[1,2]<stdout>:INFO_START: Using 50 proccesses
+[1,43]<stdout>:INFO_START: Using 50 proccesses
+[1,44]<stdout>:INFO_START: Using 50 proccesses
+[1,47]<stdout>:INFO_START: Using 50 proccesses
+[1,6]<stdout>:INFO_START: Using 50 proccesses
+[1,49]<stdout>:INFO_START: Using 50 proccesses
+[1,28]<stdout>:INFO_START: Using 50 proccesses
+[1,18]<stdout>:INFO_START: Using 50 proccesses
+[1,29]<stdout>:INFO_START: Using 50 proccesses
+[1,24]<stdout>:INFO_START: Using 50 proccesses
+[1,30]<stdout>:INFO_START: Using 50 proccesses
+[1,26]<stdout>:INFO_START: Using 50 proccesses
+[1,32]<stdout>:INFO_START: Using 50 proccesses
+[1,25]<stdout>:INFO_START: Using 50 proccesses
+[1,33]<stdout>:INFO_START: Using 50 proccesses
+[1,27]<stdout>:INFO_START: Using 50 proccesses
+[1,34]<stdout>:INFO_START: Using 50 proccesses
+[1,3]<stdout>:INFO_START: Using 50 proccesses
+[1,4]<stdout>:INFO_START: Using 50 proccesses
+[1,37]<stdout>:INFO_START: Using 50 proccesses
+[1,38]<stdout>:INFO_START: Using 50 proccesses
+[1,8]<stdout>:INFO_START: Using 50 proccesses
+[1,39]<stdout>:INFO_START: Using 50 proccesses
+[1,10]<stdout>:INFO_START: Using 50 proccesses
+[1,40]<stdout>:INFO_START: Using 50 proccesses
+[1,11]<stdout>:INFO_START: Using 50 proccesses
+[1,41]<stdout>:INFO_START: Using 50 proccesses
+[1,12]<stdout>:INFO_START: Using 50 proccesses
+[1,45]<stdout>:INFO_START: Using 50 proccesses
+[1,13]<stdout>:INFO_START: Using 50 proccesses
+[1,31]<stdout>:INFO_START: Using 50 proccesses
+[1,14]<stdout>:INFO_START: Using 50 proccesses
+[1,15]<stdout>:INFO_START: Using 50 proccesses
+[1,35]<stdout>:INFO_START: Using 50 proccesses
+[1,16]<stdout>:INFO_START: Using 50 proccesses
+[1,19]<stdout>:INFO_START: Using 50 proccesses
+[1,20]<stdout>:INFO_START: Using 50 proccesses
+[1,21]<stdout>:INFO_START: Using 50 proccesses
+[1,23]<stdout>:INFO_START: Using 50 proccesses
+[1,1]<stdout>:INFO_START: Using 50 proccesses
+[1,5]<stdout>:INFO_START: Using 50 proccesses
+[1,7]<stdout>:INFO_START: Using 50 proccesses
+[1,9]<stdout>:INFO_START: Using 50 proccesses
+[1,17]<stdout>:INFO_START: Using 50 proccesses
+[1,42]<stdout>:INFO: Process 42: (x, y, z) = (1, 3, 2) | Neighbors - Bottom: 41, Top: 43, Left: 37, Right: 47, Front: 17, Back: -2
+[1,46]<stdout>:INFO: Process 46: (x, y, z) = (1, 4, 1) | Neighbors - Bottom: 45, Top: 47, Left: 41, Right: -2, Front: 21, Back: -2
+[1,0]<stdout>:INFO: Process 0: (x, y, z) = (0, 0, 0) | Neighbors - Bottom: -2, Top: 1, Left: -2, Right: 5, Front: -2, Back: 25
+[1,2]<stdout>:INFO: Process 2: (x, y, z) = (0, 0, 2) | Neighbors - Bottom: 1, Top: 3, Left: -2, Right: 7, Front: -2, Back: 27
+[1,38]<stdout>:INFO: Process 38: (x, y, z) = (1, 2, 3) | Neighbors - Bottom: 37, Top: 39, Left: 33, Right: 43, Front: 13, Back: -2
+[1,20]<stdout>:INFO: Process 20: (x, y, z) = (0, 4, 0) | Neighbors - Bottom: -2, Top: 21, Left: 15, Right: -2, Front: -2, Back: 45
+[1,26]<stdout>:INFO: Process 26: (x, y, z) = (1, 0, 1) | Neighbors - Bottom: 25, Top: 27, Left: -2, Right: 31, Front: 1, Back: -2
+[1,36]<stdout>:INFO: Process 36: (x, y, z) = (1, 2, 1) | Neighbors - Bottom: 35, Top: 37, Left: 31, Right: 41, Front: 11, Back: -2
+[1,25]<stdout>:INFO: Process 25: (x, y, z) = (1, 0, 0) | Neighbors - Bottom: -2, Top: 26, Left: -2, Right: 30, Front: 0, Back: -2
+[1,43]<stdout>:INFO: Process 43: (x, y, z) = (1, 3, 3) | Neighbors - Bottom: 42, Top: 44, Left: 38, Right: 48, Front: 18, Back: -2
+[1,22]<stdout>:INFO: Process 22: (x, y, z) = (0, 4, 2) | Neighbors - Bottom: 21, Top: 23, Left: 17, Right: -2, Front: -2, Back: 47
+[1,37]<stdout>:INFO: Process 37: (x, y, z) = (1, 2, 2) | Neighbors - Bottom: 36, Top: 38, Left: 32, Right: 42, Front: 12, Back: -2
+[1,35]<stdout>:INFO: Process 35: (x, y, z) = (1, 2, 0) | Neighbors - Bottom: -2, Top: 36, Left: 30, Right: 40, Front: 10, Back: -2
+[1,27]<stdout>:INFO: Process 27: (x, y, z) = (1, 0, 2) | Neighbors - Bottom: 26, Top: 28, Left: -2, Right: 32, Front: 2, Back: -2
+[1,41]<stdout>:INFO: Process 41: (x, y, z) = (1, 3, 1) | Neighbors - Bottom: 40, Top: 42, Left: 36, Right: 46, Front: 16, Back: -2
+[1,45]<stdout>:INFO: Process 45: (x, y, z) = (1, 4, 0) | Neighbors - Bottom: -2, Top: 46, Left: 40, Right: -2, Front: 20, Back: -2
+[1,32]<stdout>:INFO: Process 32: (x, y, z) = (1, 1, 2) | Neighbors - Bottom: 31, Top: 33, Left: 27, Right: 37, Front: 7, Back: -2
+[1,23]<stdout>:INFO: Process 23: (x, y, z) = (0, 4, 3) | Neighbors - Bottom: 22, Top: 24, Left: 18, Right: -2, Front: -2, Back: 48
+[1,31]<stdout>:INFO: Process 31: (x, y, z) = (1, 1, 1) | Neighbors - Bottom: 30, Top: 32, Left: 26, Right: 36, Front: 6, Back: -2
+[1,8]<stdout>:INFO: Process 8: (x, y, z) = (0, 1, 3) | Neighbors - Bottom: 7, Top: 9, Left: 3, Right: 13, Front: -2, Back: 33
+[1,11]<stdout>:INFO: Process 11: (x, y, z) = (0, 2, 1) | Neighbors - Bottom: 10, Top: 12, Left: 6, Right: 16, Front: -2, Back: 36
+[1,48]<stdout>:INFO: Process 48: (x, y, z) = (1, 4, 3) | Neighbors - Bottom: 47, Top: 49, Left: 43, Right: -2, Front: 23, Back: -2
+[1,34]<stdout>:INFO: Process 34: (x, y, z) = (1, 1, 4) | Neighbors - Bottom: 33, Top: -2, Left: 29, Right: 39, Front: 9, Back: -2
+[1,47]<stdout>:INFO: Process 47: (x, y, z) = (1, 4, 2) | Neighbors - Bottom: 46, Top: 48, Left: 42, Right: -2, Front: 22, Back: -2
+[1,6]<stdout>:INFO: Process 6: (x, y, z) = (0, 1, 1) | Neighbors - Bottom: 5, Top: 7, Left: 1, Right: 11, Front: -2, Back: 31
+[1,18]<stdout>:INFO: Process 18: (x, y, z) = (0, 3, 3) | Neighbors - Bottom: 17, Top: 19, Left: 13, Right: 23, Front: -2, Back: 43
+[1,3]<stdout>:INFO: Process 3: (x, y, z) = (0, 0, 3) | Neighbors - Bottom: 2, Top: 4, Left: -2, Right: 8, Front: -2, Back: 28
+[1,28]<stdout>:INFO: Process 28: (x, y, z) = (1, 0, 3) | Neighbors - Bottom: 27, Top: 29, Left: -2, Right: 33, Front: 3, Back: -2
+[1,33]<stdout>:INFO: Process 33: (x, y, z) = (1, 1, 3) | Neighbors - Bottom: 32, Top: 34, Left: 28, Right: 38, Front: 8, Back: -2
+[1,21]<stdout>:INFO: Process 21: (x, y, z) = (0, 4, 1) | Neighbors - Bottom: 20, Top: 22, Left: 16, Right: -2, Front: -2, Back: 46
+[1,29]<stdout>:INFO: Process 29: (x, y, z) = (1, 0, 4) | Neighbors - Bottom: 28, Top: -2, Left: -2, Right: 34, Front: 4, Back: -2
+[1,15]<stdout>:INFO: Process 15: (x, y, z) = (0, 3, 0) | Neighbors - Bottom: -2, Top: 16, Left: 10, Right: 20, Front: -2, Back: 40
+[1,39]<stdout>:INFO: Process 39: (x, y, z) = (1, 2, 4) | Neighbors - Bottom: 38, Top: -2, Left: 34, Right: 44, Front: 14, Back: -2
+[1,4]<stdout>:INFO: Process 4: (x, y, z) = (0, 0, 4) | Neighbors - Bottom: 3, Top: -2, Left: -2, Right: 9, Front: -2, Back: 29
+[1,44]<stdout>:INFO: Process 44: (x, y, z) = (1, 3, 4) | Neighbors - Bottom: 43, Top: -2, Left: 39, Right: 49, Front: 19, Back: -2
+[1,30]<stdout>:INFO: Process 30: (x, y, z) = (1, 1, 0) | Neighbors - Bottom: -2, Top: 31, Left: 25, Right: 35, Front: 5, Back: -2
+[1,1]<stdout>:INFO: Process 1: (x, y, z) = (0, 0, 1) | Neighbors - Bottom: 0, Top: 2, Left: -2, Right: 6, Front: -2, Back: 26
+[1,40]<stdout>:INFO: Process 40: (x, y, z) = (1, 3, 0) | Neighbors - Bottom: -2, Top: 41, Left: 35, Right: 45, Front: 15, Back: -2
+[1,10]<stdout>:INFO: Process 10: (x, y, z) = (0, 2, 0) | Neighbors - Bottom: -2, Top: 11, Left: 5, Right: 15, Front: -2, Back: 35
+[1,49]<stdout>:INFO: Process 49: (x, y, z) = (1, 4, 4) | Neighbors - Bottom: 48, Top: -2, Left: 44, Right: -2, Front: 24, Back: -2
+[1,14]<stdout>:INFO: Process 14: (x, y, z) = (0, 2, 4) | Neighbors - Bottom: 13, Top: -2, Left: 9, Right: 19, Front: -2, Back: 39
+[1,16]<stdout>:INFO: Process 16: (x, y, z) = (0, 3, 1) | Neighbors - Bottom: 15, Top: 17, Left: 11, Right: 21, Front: -2, Back: 41
+[1,17]<stdout>:INFO: Process 17: (x, y, z) = (0, 3, 2) | Neighbors - Bottom: 16, Top: 18, Left: 12, Right: 22, Front: -2, Back: 42
+[1,5]<stdout>:INFO: Process 5: (x, y, z) = (0, 1, 0) | Neighbors - Bottom: -2, Top: 6, Left: 0, Right: 10, Front: -2, Back: 30
+[1,7]<stdout>:INFO: Process 7: (x, y, z) = (0, 1, 2) | Neighbors - Bottom: 6, Top: 8, Left: 2, Right: 12, Front: -2, Back: 32
+[1,12]<stdout>:INFO: Process 12: (x, y, z) = (0, 2, 2) | Neighbors - Bottom: 11, Top: 13, Left: 7, Right: 17, Front: -2, Back: 37
+[1,13]<stdout>:INFO: Process 13: (x, y, z) = (0, 2, 3) | Neighbors - Bottom: 12, Top: 14, Left: 8, Right: 18, Front: -2, Back: 38
+[1,9]<stdout>:INFO: Process 9: (x, y, z) = (0, 1, 4) | Neighbors - Bottom: 8, Top: -2, Left: 4, Right: 14, Front: -2, Back: 34
+[1,19]<stdout>:INFO: Process 19: (x, y, z) = (0, 3, 4) | Neighbors - Bottom: 18, Top: -2, Left: 14, Right: 24, Front: -2, Back: 44
+[1,24]<stdout>:INFO: Process 24: (x, y, z) = (0, 4, 4) | Neighbors - Bottom: 23, Top: -2, Left: 19, Right: -2, Front: -2, Back: 49
+[1,0]<stdout>:GLOBAL_ERROR: 0.098015
+[1,0]<stdout>:RUNTIME: 11.481844 seconds
