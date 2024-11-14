@@ -1,0 +1,4 @@
+Scaling Efficiency:
+Processors: 1.0, Actual Runtime: 126.951661s, Ideal Runtime: 126.952s, Efficiency: 100.00%
+Processors: 8.0, Actual Runtime: 15.463419s, Ideal Runtime: 1.933s, Efficiency: 12.50%
+Processors: 50.0, Actual Runtime: 11.481844s, Ideal Runtime: 0.230s, Efficiency: 2.00%
